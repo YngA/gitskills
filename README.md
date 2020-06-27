@@ -1,2 +1,2 @@
 # gitskills
-Creating a bew branch is quick.
+Creating a bew branch is quick & simple.
